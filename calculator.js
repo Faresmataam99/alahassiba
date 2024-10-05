@@ -15,8 +15,9 @@ btn.onclick=function(){
 }
 
 }
-let bi=document.getElementById('btna');
-for(let bi of acs) { 
+let ac=document.getElementById('btna');
+
+for(let ac of acs) { 
 
 ac.onclick=function(){
     
