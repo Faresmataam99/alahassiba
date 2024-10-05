@@ -30,7 +30,7 @@ header nav{
     gap: 10px;
   }
 
-.btna{
+#btna{
     background-color: gray;
   color: white;
   border-radius: 50px;
@@ -38,7 +38,7 @@ header nav{
   border: none;
   font-size: 100%;
 }
-.btna:hover{
+#btna:hover{
     background-color: white;
     color: orange;
 }

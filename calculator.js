@@ -17,12 +17,9 @@ btn.onclick=function(){
 }
 let ac=document.getElementById('btna');
 
-for(let ac of acs) { 
-
 ac.onclick=function(){
     
     input.value = '' ;
-}
 }
 
 
