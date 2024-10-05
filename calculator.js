@@ -19,7 +19,7 @@ let acs=document.getElementById('btn2');
 for(let ac of acs) { 
 ac.onclick=function(){
     
-    input.value==0;
+    input.value = '' ;
 }
 }
 
